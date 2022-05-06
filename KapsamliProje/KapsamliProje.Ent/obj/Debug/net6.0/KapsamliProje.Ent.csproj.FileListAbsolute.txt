@@ -1,0 +1,14 @@
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\bin\Debug\net6.0\KapsamliProje.Ent.deps.json
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\bin\Debug\net6.0\KapsamliProje.Ent.runtimeconfig.json
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\bin\Debug\net6.0\KapsamliProje.Ent.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\bin\Debug\net6.0\ref\KapsamliProje.Ent.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\bin\Debug\net6.0\KapsamliProje.Ent.pdb
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.AssemblyInfoInputs.cache
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.AssemblyInfo.cs
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.csproj.CoreCompileInputs.cache
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\ref\KapsamliProje.Ent.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.pdb
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.genruntimeconfig.cache
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Ent\obj\Debug\net6.0\KapsamliProje.Ent.csproj.AssemblyReference.cache

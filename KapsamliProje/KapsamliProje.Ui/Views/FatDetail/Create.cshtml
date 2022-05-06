@@ -1,0 +1,59 @@
+﻿@model KapsamliProje.Ui.Models.ViewModels.FatDetailModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-5">
+        <h4>Fatura Bilgileri</h4>
+        <p>@Model.FatMaster.Id</p>
+        <hr />
+        <label>Tarih</label>
+        <input    type="text" readonly asp-for="FatMaster.Date" />
+        <label>Müşteri</label>
+        <input   type="text" readonly  asp-for="Customers.CompanyName"/>
+        <label>Satıcı</label>
+        <input  type="text" readonly asp-for= "Employees.Name" />
+        <hr />
+        <table class="table table-dark">
+            <tr>
+                <th>Ürün Adı</th>
+                <th>Birim Fiyat</th>
+                <th>Adet</th>
+                <th>Toplam</th>
+                <th>Güncelle</th>
+            </tr>
+            <tbody>
+           @foreach (var item in Model.FatDetailList)
+           {
+               <tr>
+                   
+                   <td>@item.ProductName</td>
+                   <td>@item.UnitPrice</td>
+                   <td>@item.Amount</td>
+                   <td>@item.Total</td>
+                   <td><a href="/FatDetail/Update/@item.Id/?productId=@item.ProductId">Güncelle</a></td>
+                   <td><a href="/FatDetail/Delete">Sil</a></td>
+               </tr>
+           }
+           </tbody>
+        </table>
+        <form method="post">
+            <select asp-for="ProductId" class="form-control">
+                @foreach (var item in Model.Products)
+                {
+                     <option value="@item.Id">@item.ProductName</option>
+                }
+               
+            </select>
+            <label>Adet</label>
+            <input class="form-control" type="text" asp-for="Amount" />
+            <input class="form-control" type="hidden" asp-for="UnitPrice" />
+            <input class="form-control" type="hidden" asp-for="Total" />
+            <input class="btn-primary" type="submit" value="Ok" />
+        </form>
+    </div>
+</div>
+
+

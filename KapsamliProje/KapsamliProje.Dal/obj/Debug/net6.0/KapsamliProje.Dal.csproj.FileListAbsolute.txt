@@ -1,0 +1,17 @@
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\KapsamliProje.Dal.deps.json
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\KapsamliProje.Dal.runtimeconfig.json
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\KapsamliProje.Dal.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\ref\KapsamliProje.Dal.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\KapsamliProje.Dal.pdb
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\KapsamliProje.Ent.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\bin\Debug\net6.0\KapsamliProje.Ent.pdb
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.csproj.AssemblyReference.cache
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.AssemblyInfoInputs.cache
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.AssemblyInfo.cs
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.csproj.CoreCompileInputs.cache
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.csproj.CopyComplete
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\ref\KapsamliProje.Dal.dll
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.pdb
+C:\Web3\14EFCore\KapsamliProje\KapsamliProje.Dal\obj\Debug\net6.0\KapsamliProje.Dal.genruntimeconfig.cache

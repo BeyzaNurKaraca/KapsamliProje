@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13a0d431-c97c-4796-a331-83b26676f1ee": {
+      "ProjectGuid": "13a0d431-c97c-4796-a331-83b26676f1ee",
+      "DisplayName": "KapsamliProje.Dal",
+      "ColorIndex": 0
+    },
+    "34f8ea66-84dd-4750-b95c-1648cec82b0b": {
+      "ProjectGuid": "34f8ea66-84dd-4750-b95c-1648cec82b0b",
+      "DisplayName": "KapsamliProje.Ent",
+      "ColorIndex": 1
+    },
+    "80fa64c0-5267-40e9-93b2-6c54c9b16f81": {
+      "ProjectGuid": "80fa64c0-5267-40e9-93b2-6c54c9b16f81",
+      "DisplayName": "KapsamliProje.Core",
+      "ColorIndex": 2
+    },
+    "5f3fbde1-afca-4476-b8e3-0f7241b76494": {
+      "ProjectGuid": "5f3fbde1-afca-4476-b8e3-0f7241b76494",
+      "DisplayName": "KapsamliProje.Uow",
+      "ColorIndex": 3
+    },
+    "288c7297-5179-4659-b808-ad5a3263e57a": {
+      "ProjectGuid": "288c7297-5179-4659-b808-ad5a3263e57a",
+      "DisplayName": "KapsamliProje.Repos",
+      "ColorIndex": 4
+    },
+    "945c8245-7c9c-4fb6-8604-edabeb27bb9f": {
+      "ProjectGuid": "945c8245-7c9c-4fb6-8604-edabeb27bb9f",
+      "DisplayName": "KapsamliProje.Dto",
+      "ColorIndex": 5
+    },
+    "f5f37539-1e9f-4ffe-8342-a0fce90420e1": {
+      "ProjectGuid": "f5f37539-1e9f-4ffe-8342-a0fce90420e1",
+      "DisplayName": "KapsamliProje.Ui",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "74f71768-a460-43ad-8ff2-37fc15ce3d53": {
+      "ProjectGuid": "74f71768-a460-43ad-8ff2-37fc15ce3d53",
+      "DisplayName": "KapsamliProje.UiIM",
+      "ColorIndex": 7
+    },
+    "9ac94f6c-086e-4afa-b85c-a6aa8c797ea2": {
+      "ProjectGuid": "9ac94f6c-086e-4afa-b85c-a6aa8c797ea2",
+      "DisplayName": "KapsamliProje.UiIM",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
